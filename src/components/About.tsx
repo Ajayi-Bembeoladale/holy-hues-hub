@@ -3,7 +3,6 @@ import { Heart, Users, Book, Cross } from "lucide-react";
 
 const About = () => {
   const values = [
-    {
       icon: <Heart className="h-8 w-8" />,
       title: "Love",
       description: "We believe in showing God's love through our actions and relationships with one another."
@@ -13,6 +12,7 @@ const About = () => {
       title: "Community",
       description: "Building strong connections and supporting each other through life's journey."
     },
+    {
     {
       icon: <Book className="h-8 w-8" />,
       title: "Truth",
