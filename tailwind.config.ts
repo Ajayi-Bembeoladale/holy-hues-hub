@@ -52,6 +52,13 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				church: {
+					primary: 'hsl(var(--church-primary))',
+					light: 'hsl(var(--church-light))',
+					accent: 'hsl(var(--church-accent))',
+					text: 'hsl(var(--church-text))',
+					muted: 'hsl(var(--church-muted))'
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
